@@ -2,7 +2,7 @@ package Aplicação;
 
 import Xadrez.PeçaDeXadrez;
 
-//interface de usuário
+//interface de usuário.
 public class UI {
     
     public static void imprimirTabuleiro(PeçaDeXadrez[][] peças){
