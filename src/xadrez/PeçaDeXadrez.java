@@ -1,7 +1,7 @@
-package Xadrez;
+package xadrez;
 
-import JogoDeTabuleiro.Peça;
-import JogoDeTabuleiro.Tabuleiro;
+import jogoDeTabuleiro.Peça;
+import jogoDeTabuleiro.Tabuleiro;
 
 public class PeçaDeXadrez extends Peça{
     
