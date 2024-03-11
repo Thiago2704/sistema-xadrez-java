@@ -1,6 +1,6 @@
-package Aplicação;
+package aplicação;
 
-import Xadrez.PartidaDeXadrez;
+import xadrez.PartidaDeXadrez;
 
 public class Main{
     public static void main(String[] args) {

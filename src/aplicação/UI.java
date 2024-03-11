@@ -1,6 +1,6 @@
-package Aplicação;
+package aplicação;
 
-import Xadrez.PeçaDeXadrez;
+import xadrez.PeçaDeXadrez;
 
 //interface de usuário.
 public class UI {
